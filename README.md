@@ -22,7 +22,7 @@ Files include neutral diradical (TEMPO•/TEMPO•), singly oxidised (TEMPO⁺/T
 
 ## **Contact**
 
-Georgina L. Gregory — [georgina.gregory@chem.ox.ac.uk] Department of Chemistry, University of Oxford
+Georgina L. Gregory — georgina.gregory@chem.ox.ac.uk, Chemistry Research Lab, Department of Chemistry, University of Oxford
 
 ## **Licence**
 
